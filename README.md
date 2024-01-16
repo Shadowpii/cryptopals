@@ -1,13 +1,14 @@
 # Cryptopals
 
-You can Find the cryptopals crypto challenges:- [Cryptopals](https://cryptopals.com)
+You can Find the Cryptopals crypto challenges:- [Cryptopals](https://cryptopals.com)
 
-If you are new to cryptography then you can also check [CRYPTOHACK](https://cryptohack.org/)
+If you are new to Cryptography then you can also check [CRYPTOHACK](https://cryptohack.org/)
 
 ---
 
 Solutions to the Matasano Cryptography Challenges
 
+---
 ## Set 1: Basics
 
 1. [Conver hex to Base64](/Set%201/challenge1.py)
