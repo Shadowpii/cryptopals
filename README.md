@@ -12,7 +12,7 @@ Solutions to the Matasano Cryptography Challenges
 ## Set 1: Basics
 
 1. [Conver hex to Base64](/Set%201/challenge1.py)
-2. [Fixed XOR]
+2. [Fixed XOR](/Set%201/challenge2.py)
 3. [Single-byte XOR cipher]
 4. [Detect single-character XOR]
 5. [Implement repeating-key XOR]
