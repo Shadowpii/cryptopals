@@ -16,3 +16,4 @@ if(b == base64_string):
 else:
     print("Failure!")
 
+# Success is answer

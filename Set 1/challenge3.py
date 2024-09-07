@@ -9,3 +9,5 @@ def single_byte_xor(hex):
     return max(result, key=lambda s: s.count(' '))
 
 print(single_byte_xor(hex_string))
+
+# Cooking MC's like a pound of bacon

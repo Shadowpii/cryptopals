@@ -15,3 +15,5 @@ if(x == result):
     print("Success!")
 else:
     print("Failure!")
+    
+# Success is answer

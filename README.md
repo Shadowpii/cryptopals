@@ -6,14 +6,14 @@ If you are new to Cryptography then you can also check [CRYPTOHACK](https://cryp
 
 ---
 
-Solutions to the Matasano Cryptography Challenges
+### Solutions to the Matasano Cryptography Challenges
 
 ---
 ## Set 1: Basics
 
 1. [Conver hex to Base64](/Set%201/challenge1.py)
 2. [Fixed XOR](/Set%201/challenge2.py)
-3. [Single-byte XOR cipher]
+3. [Single-byte XOR cipher](/Set%201/challenge3.py)
 4. [Detect single-character XOR]
 5. [Implement repeating-key XOR]
 6. [Break repeating-key XOR]
