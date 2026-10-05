@@ -15,7 +15,7 @@ If you are new to Cryptography then you can also check [CRYPTOHACK](https://cryp
 2. [Fixed XOR](/Set%201/challenge2.py)
 3. [Single-byte XOR cipher](/Set%201/challenge3.py)
 4. [Detect single-character XOR]
-5. [Implement repeating-key XOR]
+5. [Implement repeating-key XOR](/Set%201/challenge5.py)
 6. [Break repeating-key XOR]
 7. [AES in ECB mode]
 8. [Detect AES in ECB mode]
