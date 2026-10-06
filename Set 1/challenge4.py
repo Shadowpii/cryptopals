@@ -35,4 +35,6 @@ with open(file_path, "r") as f:
             best_overall = (score, result, key)
 
 print("Decrypted message:\n", best_overall[1])
-print("Key used:", best_overall[2])
+
+# print("Key used:", best_overall[2])
+# Answer: Now that the party is jumping
