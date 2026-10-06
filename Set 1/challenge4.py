@@ -3,8 +3,6 @@
 import binascii
 import os
 
-script_dir = os.path.dirname(os.path.abspath(__file__))
-file_path = os.path.join(script_dir, "Challenge04.txt")
 
 def score_english(text):
     # Frequency-based English scoring
@@ -26,6 +24,9 @@ def single_byte_xor(cipher_bytes):
 
 best_overall = (0, "", 0)
 
+script_dir = os.path.dirname(os.path.abspath(__file__))
+file_path = os.path.join(script_dir, "Challenge04.txt")
+
 with open(file_path, "r") as f:
     for line in f:
         line = line.strip()
@@ -34,7 +35,6 @@ with open(file_path, "r") as f:
         if score > best_overall[0]:
             best_overall = (score, result, key)
 
-print("Decrypted message:\n", best_overall[1])
+print( best_overall[1])
 
-# print("Key used:", best_overall[2])
-# Answer: Now that the party is jumping
+# Now that the party is jumping
